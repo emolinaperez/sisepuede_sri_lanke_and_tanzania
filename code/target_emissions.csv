@@ -1,0 +1,7 @@
+iso_code3,region,source,Year,total,target_CO2total_ce,target_CO2total_ippu,target_CO2total_agrc,target_CO2total_lndu,target_CO2total_scoe,target_CO2total_trns,target_CO2total_inen,target_CO2total_entc,target_CO2total_fgtv,target_CO2total_frst,target_CH4total_ce,target_CH4total_ippu,target_CH4total_agrc,target_CH4total_lndu,target_CH4total_scoe,target_CH4total_trns,target_CH4total_inen,target_CH4total_entc,target_CH4total_fgtv,target_CH4total_frst
+IND,india,CAIT,2020,"3,166.95",85.35,149.37,741.92,111.13,162.49,276.44,574.28,1121.98,88.99,-145,0.83,0.18451,0.6768,0.01514,0.20137,0.00506,0.00624,0.00078,0.96651,0
+IND,india,CCDR,2016,"2,530.00",75,226,408,280,210.1727105,249.4125324,480.9356056,1026.832208,161.6469432,-588,0.30214,0.00046,0.50058,0,0.17078,0.00443,0,0,0.27793,0.00001
+IND,india,EDGAR,2022,"3,635.31",239.82,292.93,789.89,0.01,258.7,307,591.98,1263.92,198.97,-307.91,0.93,0.00126,0.71,0.001,0.15,0.006,0.006,0.0007,0.496,0.00001
+IND,india,GMI,2022,"3,635.31",239.82,292.93,789.89,0.01,258.7,307,591.98,1263.92,198.97,-307.91,0.30214,0.00046,0.50058,0,0.17078,0.00443,0,0,0.27793,0.00001
+LKA,sri_lanka,CAIT,2020,38.6401,3.49,2.75,6.87,2.56,1.88,10.87,1.48,9.52,0.0001,-0.78,0.88,0.0000001,0.66,0.0000001,0.33,0.0055,0.075,0.001,0.0000001,0.0000001
+TZA,united_republic_of_tanzania,CAIT,2020,157.93,6.38,3.56,61.36,104.34,4.3,7.02,2.83,2.67,0.25,-34.78,0.43,0.0000001,0.63,0.0000001,0.79,0.0055,0.025,0.0000001,0.99,0.0000001
