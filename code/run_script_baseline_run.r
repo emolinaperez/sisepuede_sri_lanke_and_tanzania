@@ -66,24 +66,3 @@ source(paste0(root,"\\code\\","rescale_function_baseline.r"))
 z<-2
 rescale(z,rall,data_all,te_all,initial_conditions_id,dir.output)    
 
-
-#read the csv rescaled and merge with attributes, 
-test <- read.csv(r"()")
-
-#melt and add attributes 
-
-
-att1 <- read.csv(r"()")
-att2 <- read.csv(r"()")
-
-
-
-
-
-for( z in 1:length(rall))
-{
-rescale(z,rall,data_all,te_all)
-}
-
-
-
