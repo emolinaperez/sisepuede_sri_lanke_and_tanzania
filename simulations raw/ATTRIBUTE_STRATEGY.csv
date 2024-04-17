@@ -11,8 +11,8 @@ strategy_id,strategy,strategy_code,baseline_strategy_id,description
 1007,AGRC: Improve rice management,AGRC:DEC_CH4_RICE,0,Reduce :math:`\text{CH}_4` emissions from rice production by 45% due to improved management and reduced flooding.
 1008,AGRC: Reduce supply chain losses,AGRC:DEC_LOSSES_SUPPLY_CHAIN,0,Reduce waste food waste in the agricultural (crop) supply chain (pre-consumer)
 1009,AGRC: Reduce supply chain losses with partial land use reallocation,AGRC:DEC_LOSSES_SUPPLY_CHAIN_PLUR,0,
-1010,FRST: Increase Reforestation,FRST:INC_REFORESTATION,0,Increase reforestation (currently doubles target for secondary forest by final time period)
-1011,FRST: Stop deforestation,FRST:DEC_DEFORESTATION,0,Halt deforestation of primary and secondary forests
+1010,LNDU: Increase Reforestation,LNDU:INC_REFORESTATION,0,Increase reforestation (currently doubles target for secondary forest by final time period)
+1011,LNDU: Stop deforestation,LNDU:DEC_DEFORESTATION,0,Halt deforestation of primary and secondary forests
 1012,LNDU: Expand silvopasture,LNDU:INC_SILVOPASTURE,0,"Increase the use of silvopasture; modeled by shifting 30% of pasture (in final time period) to secondary forests over time; livestock carrying capacities increase to meet the change, while pasture fractions of grassland decrease."
 1013,LNDU: Expand silvopasture with partial land use reallocation,LNDU:INC_SILVOPASTURE_PLUR,0,"Increase the use of silvopasture; modeled by shifting 30% of pasture (in final time period) to secondary forests over time; livestock carrying capacities increase to meet the change, while pasture fractions of grassland decrease."
 1014,LNDU: Expand sustainable grazing practices,LNDU:INC_SUSTAINABLE_GRAZING,0," | Decrease soil organic carbon loss in grasslands through sustainable grazing practices
