@@ -14,7 +14,7 @@ te_all$source <- NULL
 te_all$Year <- NULL
 
 #ouputfile
-output.file<-"sisepuede_results_sisepuede_run_2024-04-15.csv"
+output.file<-"sisepuede_results_sisepuede_run_2024-04-19.csv"
 data_all<-read.csv(paste0(root,"\\simulations raw\\",output.file))
 rall <- unique(data_all$region)
 
