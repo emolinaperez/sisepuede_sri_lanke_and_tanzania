@@ -14,7 +14,7 @@ te_all$source <- NULL
 te_all$Year <- NULL
 
 #ouputfile
-output.file<-"sisepuede_results_sisepuede_run_2024-04-19.csv"
+output.file<-"sisepuede_results_sisepuede_run_2024-05-06.csv"
 data_all<-read.csv(paste0(root,"\\simulations raw\\",output.file))
 rall <- unique(data_all$region)
 
@@ -63,6 +63,6 @@ initial_conditions_id <- "_15015"
 
 source(paste0(root,"\\code\\","rescale_function_baseline.r"))
 
-z<-2
+z<-1
 rescale(z,rall,data_all,te_all,initial_conditions_id,dir.output)    
 
